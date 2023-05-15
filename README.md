@@ -4,4 +4,4 @@
 ----
 - I am Graphic Designer 
 - I use nixos :trollface: 
-- check [my website](https://oomfie.gitlab.io)
+- check [my website](https://oomfie.town)
